@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2024-04-29T19:22:30.8476310Z||;False|2024-04-29T13:21:45.6983633-06:00||;True|2024-04-27T16:25:38.3044350-06:00||;True|2024-04-27T16:09:17.4252168-06:00||;True|2024-04-27T11:44:51.1449378-06:00||;True|2024-04-27T11:40:13.4362216-06:00||;False|2024-04-27T11:39:10.9818830-06:00||;True|2024-04-26T10:48:19.6425344-06:00||;False|2024-04-26T10:43:24.9299523-06:00||;True|2024-04-13T17:22:57.5447716-06:00||;False|2024-04-13T17:22:35.2747465-06:00||;True|2024-04-12T14:15:57.5897295-06:00||;False|2024-04-12T14:15:31.7867281-06:00||;True|2024-04-09T12:13:37.7024268-06:00||;False|2024-04-09T12:12:44.6872340-06:00||;True|2024-03-18T14:59:53.0020686-06:00||;True|2024-03-18T14:49:41.9769641-06:00||;False|2024-03-18T14:49:00.4692174-06:00||;True|2024-02-13T18:40:21.1570008-06:00||;False|2024-02-13T18:39:19.4376021-06:00||;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>C:\Users\donov\Documents\GitHub Async\ShenLong03\AutomovilClub\AutomovilClub.Backend\bin\Release\net8.0\publish\</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
